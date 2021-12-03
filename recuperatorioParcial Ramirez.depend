@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1638462698 source:c:\users\lucas\desktop\recuperatorioparcial ramirez\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1638462768 c:\users\lucas\desktop\recuperatorioparcial ramirez\linkedlist.h
+
+1638489970 source:c:\users\lucas\desktop\recuperatorioparcial ramirez\post.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<time.h>
+	"post.h"
+	"LinkedList.h"
+	"Controller.h"
+
+1638489970 c:\users\lucas\desktop\recuperatorioparcial ramirez\post.h
+
+1638486375 c:\users\lucas\desktop\recuperatorioparcial ramirez\controller.h
+
+1638489994 source:c:\users\lucas\desktop\recuperatorioparcial ramirez\controller.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Parser.h"
+	"post.h"
+	"controller.h"
+
+1638484825 c:\users\lucas\desktop\recuperatorioparcial ramirez\parser.h
+
+1638489270 source:c:\users\lucas\desktop\recuperatorioparcial ramirez\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"LinkedList.h"
+	"Controller.h"
+
+1638486177 source:c:\users\lucas\desktop\recuperatorioparcial ramirez\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Parser.h"
+	"post.h"
+
